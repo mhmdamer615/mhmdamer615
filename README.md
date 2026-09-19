@@ -7,11 +7,6 @@
 
 Building scalable backend applications and RESTful APIs with .NET.
 
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/>
-
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmdamer615&style=flat&color=blue&label=PROFILE+VIEWS)
 
